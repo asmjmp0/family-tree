@@ -3,7 +3,7 @@ import qs from 'qs'
 /**
  * 发送请求，并对返回的数据进行整型
  */
-const serveUrl = ' http://47.101.129.22/tree.php'
+const serveUrl = ' http://*/tree.php'
 class TreeNode {
   constructor (name) {
     this.name = name
